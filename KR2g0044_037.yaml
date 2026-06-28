@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/krp/v1/juan/37
+seq: 37
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_037-1a, image: WYG0455/WYG0455-0297a.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷十八雅爾湖地方通顔覺羅氏茂海圖爾渾以上俱有傳蘇扎理布顔柱以上俱附載各地方阿顔覺羅氏星額理諾恩珠瑚阿普察碩色鑾貝和齊松愛柏泰扎海以上俱有傳阿爾當阿拉塔諾爾巴哈阿精阿佛訥赫納穆泰屯珠瑚赫什恆以上俱附載各地方呼倫覺羅氏烏祿遜右係有傳噶塔布豐盛額阿哈尼堪雅爾布阿林哈爾哈齊以上俱附載各地方阿哈覺羅氏阿爾達世右係有傳蘇成額科濶穆進泰滿丕克丑阿庫納鄂通果扎秦松吉納胡謨色庫圖訥夸察拖海哈喇鼐格胡巴理諾爾布爾胡實屯塞爾弼哈克占瑚達理費揚古汪珠瑚薩哈廉郭精義博竒納瑪沙岱福哈額思特費揚古汪顔瑪福塔額爾金瑚什霸碩塞達漢法克什哈什喀齊喀瑪爾吉賴庫邁斯哈鈕赫以上俱附載長白山地方察喇覺羅氏托鈕岱斌以上俱附載
+  hash: sha256:54b45411911ff276b7727b1a551b797e910fa1e69ea139438cb950f2a4bac0f0
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷十八目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_037.txt
+hash: sha256:0052ac2c0b38d035e624e3655c655cb48765c12f3cb59c824f64a40f4b4e0264

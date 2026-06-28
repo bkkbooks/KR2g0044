@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/krp/v1/juan/65
+seq: 65
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_065-1a, image: WYG0455/WYG0455-0506c.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷三十二郭絡羅氏常舒楊舒瑚錫朱雅穆屯珠琥瑚錫納費揚古禪布羅科阿凱巴爾本巴通阿拜錫以上俱有傳公泰綽竒納達濟哈蘇希塔蘇赫訥杭安雅錫布噶達渾顔布哈爾費雅爾布穆楚魯坤都和尚道瞻那斯喀武色阿靈阿色赫理髙達以上俱附載雅蘭西楞地方顔扎氏兆圖費音圖琛唐鈕薩穆哈以上俱有傳賽寶尼穆倫以上俱附載葉赫地方顔扎氏安達理吳爾德克以上俱有傳岱珠瑚瑚什屯敦布以上俱附載各地方顔扎氏扎揚阿彌哈齊塞鈕鄂爾本果伊羅多以上俱有傳伊爾哈尼永顔殷泰蘇瓦顔臣德布瑚鈕喀拜藩楚扎爾斗吉魯巴準瑪隆阿岱勞舒書邦柱立布拉理賔圖德穆布祿西拉哈滿達理竒塔特喀瑪拉佛爾機沙爾圖阿達蘇努爾布以上俱附載碧魯氏祝瑪拉薩蘭泰三泰喀賚吳魯喀瓦克善彰泰來以上俱有傳烏努布鄂和達穆凌阿懋法柱安泰錫圖琥那爾布綽穆通果愛蘇滿都白爾克巴林阿爾布哈以上俱附載
+  hash: sha256:8133db7efbebda980dffc9e8212f6e4a3db8212d270b76320cd9ac874833e19b
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷三十二目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_065.txt
+hash: sha256:540963da004f351013692dec69a9fd7bcd2f968cd04685e3a792755d3b79e0c8

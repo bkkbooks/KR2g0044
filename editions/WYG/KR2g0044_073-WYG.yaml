@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/73
+seq: 73
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_073-1a, image: WYG0455/WYG0455-0555a.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷三十六賽密勒氏通蛟噶庫納塔馨塔拉爾保布喇錫伊爾吉禪扎林以上俱有傳伊莽阿七十達哈禪烏雲布勒普赫達什哈莽阿木克什納性訥尼達納賴達商吉爾圖阿南達薩克察嵩吉爾圖以上俱附載精竒理氏巴爾達齊扎理穆鄂謨爾托謨廷以上俱有傳徳敦愛達理以上俱附載扎庫塔氏舒通阿伊扎噶布拉阿柱瑪爾圖吉拉喀僧塞竒普什訥哈爾蓀以上俱有傳備渾徳普騰額奢爾瑚訥富拉理明阿達圖柱南濟蘭阿舒布呉扎那巴倫倭新海亮寧徳塔泰察楚喀爾特勒普都海青阿哈普沙以上俱附載
+  hash: sha256:b7f782f95e4556ccc65a4c366af65731489723a992b8f883e4860ec692548337
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷三十六目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_073.txt
+hash: sha256:bf21cf9e550c351399e6a8c0c826f6f6131e54c06dee9ac9037bf683091cc39c

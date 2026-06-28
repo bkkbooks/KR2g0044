@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/33
+seq: 33
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_033-1a, image: WYG0455/WYG0455-0275a.png}
+body:
+  text: 八旗滿洲氏族通譜目錄卷十六葉赫地方舒舒覺羅氏碩翁科洛巴圖魯圖魯什費揚古禪禪安布祿新布吳努春岱音布祿舒敏以上俱有傳碩塞胡世布本達理以上俱附載哈達地方舒舒覺羅氏坦扎哈達克達禮尼雅爾哈以上俱有傳福爾佳齊伊奇納光衮索拜莽吉圖滿都禮滿都瑚以上俱附載各地方舒舒覺羅氏阿禮密伊爾哈穆克訥都什巴諾庫哈什圖都忒赫法都武世泰韓楚漢馬雅理蘇明阿蘇囊阿墨爾根以上俱有傳薩爾圖蘇巴哈英格爾圖瑪爾哈郎秦達布漢瑪鼐濟普喀鄂鼐拉巴達尼雅哈瞻泰瑚什巴密雅克達噶法穆哈達拉鼐嘉渾鄂哈噶哈六格岱敦商晉德得尼塞色瑚什塔巴海希爾喀托蘭扎唐阿阿爾瑚格伯訥科尼音䝉古訥鏗古訥薩木哈圖耀珠塔海富遼謨絡巴寧阿瓦瑚達謨爾渾納齊布吉爾禪松鄂理翁克伊思海顔珠渾哲都布韶庸西薩納邁圖蘇賚兊布祿額貝庫德訥發瑚阿胡圖英格禮徹孔額東阿克什赫安達爾漢布海哲倫泰翁阿舒淑勒特納時泰蓋桑阿穆理瑪華色以上俱附載
+  hash: sha256:6010cf7d133f787c9db7ec6bf448d3e0e8955cf2c3a12285a2592126d6deff7c
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷十六目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_033.txt
+hash: sha256:ed7193c63f90d42494c56fec1aae7418f144164a32d17af09d56d19d1df9a806

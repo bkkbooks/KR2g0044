@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/43
+seq: 43
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_043-1a, image: WYG0455/WYG0455-0338a.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷二十一那木都魯地方那木都魯氏康武理哲爾古汪什福察拉薩爾佳達以上俱有𫝊董訥科多什瑪富齊拉鄂奇塔恰塔博爾鍾鄂伊穆薩喀布勒亨以上俱附載綏分地方那木都魯氏明安圗巴顔岳蘇納瑪林和碩阿爾松阿愛黨阿伊圗理以上俱有𫝊和爾尚阿邁蘭栢爾都噶爾納托克楚阿爾喀珠爾哈納穆爾察徳啟額爾楚黨楚瑪哈圗庫濟訥塔爾瑚恩特徳奇阿秋以上俱附載渾春地方那木都魯氏本博科博周喀喇以上俱有𫝊索碧喜庫庫渾扎瞻岱都蘭泰以上俱附載各地方那木都魯氏吉希勒右係有𫝊莽古楚伍什巴費桑阿伊爾奇勒南泰扎克蘇博和諾塔特庫善翁托以上俱附載
+  hash: sha256:9928d59f644f41446cc9664c8d649c09b7e16097044c2737f6109095ea93f797
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷二十一目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_043.txt
+hash: sha256:685850fd97d2dd1ca4c735f8c9394822c17a0241c82a91ef48591c7b1891b93a

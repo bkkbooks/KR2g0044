@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/19
+seq: 19
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_019-1a, image: WYG0455/WYG0455-0181a.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷九都英額地方赫舍里氏碩色巴克什希福巴克什額爾德尼巴克什以上俱有𫝊和多穆哈連地方赫舍里氏拜音達理扎爾固齊布爾薩海東金吳巴海錫來布達理額盛額巴賚額普通阿以上俱有𫝊莽金錫特庫滿泰色盛額達爾禪圖塔哈魏赫訥丹楚渾碧雅以上俱附載齋谷地方赫舍里氏宜巴理宜拜庫爾禪瑚世穆穆爾岱以上俱有𫝊英古禮蓀烏禮喀赫理布烏巴泰萬濟喀以上俱附載哈達地方赫舍里氏車爾布赫尼音塔哈拜音岱薩珠瑚岱音察阿顔塔喀爾沁舒瑚魯郭和托克錫邁圖額爾赫貳搆王吉納屯泰塞克精額以上俱有𫝊覺和托他他布蘇格尼堪碩色薩穆哈殷他錫巴克坦布綽起法克禪穆雅那輝達吳巴圖安楚阿雅那莽吉禄岳色達藍屯齊理王吉那圖思圖滿達爾漢艾圖以上俱附載
+  hash: sha256:ccfe4a5c18e8d956033a3a249662cb813ff16965269c24b58339b57f12e8c6b0
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷九目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_019.txt
+hash: sha256:b3fcb57b0a84ac92cf83bd8551d19ebe80f5dbce87e93055f4b908db291c322a

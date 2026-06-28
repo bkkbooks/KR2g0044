@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/krp/v1/juan/59
+seq: 59
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_059-1a, image: WYG0455/WYG0455-0469c.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷二十九叩德氏武訥赫錫巴禮德爾德赫卓羅以上俱有傳巴爾柱右係附載哈達地方吳雅氏額柏根薩穆哈托克松鄂屯布祿瑪唐阿瑚琛布以上俱有傳巴顏圖郭爾端郎鄂理伊喀理喀爾喀濟以上俱附載各地方吳雅氏納穆章阿納達以上俱有傳吳巴泰禪布祿巴爾岱清江艾圖和積格巴什羌什庫訥徹布巴達納薩郎阿以上俱附載杭佳地方戴佳氏穆克談巴圖魯兌齊尼喀達諾敏多松愛以上俱有傳都爾瑪碩禮富那愷丹達禮社圖安都那穆達立勒岱阿寧阿鄂嶽爾昆鄂岱都珠瑚達爾察鼐孟阿穆哈連以上俱附載各地方戴佳氏喜佛陶以上俱有傳賽都都囊阿阿布賴張鼐常英索爾喜郭托碩拉瑪尚武努以上俱附載
+  hash: sha256:a5f5b8e05380e89280d60648dd01a64c28538262ee09301e75e1a37991de44ea
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷二十九目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_059.txt
+hash: sha256:301002bc58fbd8b600814147b8725d5a666e97a61ea4f231824e287511e4ba39

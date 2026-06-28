@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/47
+seq: 47
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_047-1a, image: WYG0455/WYG0455-0367a.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷二十三烏喇地方納喇氏達爾漢阿布泰圗達理羅薩滿都布禄常住莽鑑台齊謨爾渾布哈納喀克錫愛音榖魯博瑚察那秦阿拜諾錫揚吉努喀喇以上俱有𫝊阿爾泰温泰瑪哈揚福洪愛阿蘭泰薩穆哈遼東阿山拜那郎阿理阿爾瑚察哈岱齊瑪庫額禮肯瑚錫哈濟蘭太代敏喀爾喀瑪博濟達東阿納穆班布泰阿林金泰九塞陶資徳奇訥芬泰那穆達理以上俱附載哈達地方納喇氏吳爾瑚達海塔卓内蘇巴海約蘭夏瑚阿敦達雅理哲爾徳喀尼穆都珠瑚都琥禪明安彰實赫書賽圖碩舒堪英阿鄂倫綽爾賽丹達理音泰以上俱有𫝊喀喇金塔錫吉那宻瓦克善顔岱錫爾泰雅克星阿雅理布納秦凖拜滿都瑚伊札拉費揚古圖努瑚三台瑚圖理華喇拜音布阿那布額爾徳尼賽布琥芳凱噶爾珠博羅瓦渾邁宻泰阿濟理和托瑪克占台音察喀尼穆武巴海巴實岱珠琥額克楚尼穆成額賚圗倫拜肇國光格都爾備邁圗義常賚善以上俱附載
+  hash: sha256:4dd822e44d52da50b85f566fbd5a0fe2f6997cf833fad671e998503d1f02de6c
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷二十三目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_047.txt
+hash: sha256:2cb3b6d8d46e358db3c36994e497da456891ffd7dbe272a72202c8e772e0f21f

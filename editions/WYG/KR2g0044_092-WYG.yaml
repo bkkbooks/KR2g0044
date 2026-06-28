@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/92
+seq: 92
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_092-1a, image: WYG0455/WYG0455-0652a.png}
+body:
+  text: 八旗滿洲氏族通譜目錄卷四十六葉赫地方鄂卓氏阿爾吉穆滿都富岱瓦渾瑚巴蘇彌納以上俱有傳英泰岱祿瓦穆布彰海岳隆果費揚古色克山壘勒以上俱附載各地方鄂卓氏哈爾松阿廷鈕以上俱有傳安圖岳貝官保雅齊布札色理瑚深布祿阿爾法納爾布噶達渾佳克丹覺和托外賛拉爾巴渾屯泰科對吉拉以上俱附載鈕赫勒氏杜塔理青善杜理布哈多弼䝉古爾岱以上俱有傳戴都努占孫扎齊達布當阿頗起阿哈善寧占瑚什塔朗以上俱附載鄂濟氏通阿圖巴圖魯珠爾庫孟魁尚嘉圖台朔庫吴岱竒塔巴顔恒特以上俱有傳噶克達薩穆懇瓦海穆鐸鄂壘武達海圖理布以上俱附載裕瑚魯氏達揚阿法照拖爾竒堪沙格以上俱有傳蘇赫丹布祿蘇克札巴爾佳納郎圖拜他納吉穆薩哈額爾松峩瓦爾碧悠吴柱布瑚秦以上俱附載布爾察氏圖爾伯慎右係有傳博爾托右係附載
+  hash: sha256:7b99d8be56aa94b85ce26b9d697fe6de13cde9d7bb124fc24afec19f2c884f55
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷四十六目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_092.txt
+hash: sha256:00b010ee93544978372b46176125b0efc49c2b89326cd7269b51333085ebe762

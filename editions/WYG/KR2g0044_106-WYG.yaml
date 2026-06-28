@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/106
+seq: 106
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_106-1a, image: WYG0456/WYG0456-0040a.png}
+body:
+  text: 八旗滿洲氏族通譜目錄卷五十三濟禮氏多克松鄂右係有傳吳努渾右係附載烏爾漢氏哈爾圖右係有傳達禮右係附載赫宜氏烏齡額右係有傳葛旒森徹訥瓦達蓀以上俱附載札蘇理氏科爾機達右係有傳喀玳右係附載拜都氏阿錫圖達賚以上俱有傳頼布氏札齊喀岱䝉阿以上俱有傳布賽氏賽喀那右係有傳札爾湖尼噶布拉以上俱附載噶努氏古爾巴泰右係有傳阿林右係附載烏蘇占氏鈕彦圖右係有傳阿蘭右係附載尼竒理氏蘇喀愛篤以上俱有傳恰素恩特以上俱附載鄂謨拖氏嘉穆蓀右係有傳當格凱費以上俱附載董佳氏鄂哈吳海穆敦以上俱有傳哲蘇肯華連吉紫阿蘇泰以上俱附載阿克占氏吳努綽法隆武以上俱有傳吳同保馬達理羅多巴本以上俱附載葉穆氏巴揚阿和什莽佳以上俱有傳安圖僧古理竒重額穆圖庫塔喀納特色以上俱附載喀爾拉氏吳岱屯泰以上俱有傳岱松阿薩哈連珠爾哈岱以上俱附載
+  hash: sha256:c46cd373c6f8f9d9e77b082b68b5ec3e55230d04e1c1a92f7622c845094de7f3
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷五十三目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_106.txt
+hash: sha256:284ea5b300256c76774d0ee526dfef5b23587db9c6a4178f6fa2de02cd3703e2

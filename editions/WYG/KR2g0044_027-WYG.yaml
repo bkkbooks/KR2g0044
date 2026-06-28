@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/27
+seq: 27
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_027-1a, image: WYG0455/WYG0455-0236a.png}
+body:
+  text: 八旗滿洲氏族通譜目錄卷十三撒爾湖地方伊爾根覺羅氏瓜喇恩特拉哈墨爾根伊爾喀巴圖魯羅洛渾格善華善色伯察哈博亮以上俱有傳墨爾根穆成額以上俱附載呼訥赫地方伊爾根覺羅氏噶葢扎爾固齊孟格圖阿爾哈巴顔納齊布額齊布温察綏哈謨絡瑚密色圖元布以上俱有傳薩克什哈右係附載雅爾湖地方伊爾根覺羅氏桑古尼哈爾巴巴圖魯納凱顔布禄以上俱有傳達爾邦阿布爾謄達古䝉古瞻鑒拜滿柱蘇雅蘇瓦顔戴栁費揚古耀色烏什以上俱附載烏喇地方伊爾根覺羅氏納爾遜唐古善顔布祿以上俱有傳呉達禪達春噶爾圖察哈理呉達理薩哈亷福喀羅多理衛生額薩爾巴哈噶達渾碩色以上俱附載
+  hash: sha256:8d725a77994238492fb00f5dbab495acca2946b8360020f13dd6cc092a8a5705
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷十三目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_027.txt
+hash: sha256:d01d1f1d8611e202e03fbd88879796d6488fb4f074ac4e2d793c9c19020e6cc2

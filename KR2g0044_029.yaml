@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/krp/v1/juan/29
+seq: 29
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_029-1a, image: WYG0455/WYG0455-0248c.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷十四瓦爾喀地方伊爾根覺羅氏赫臣喀齊蘭卓禮喀景文以上俱有傳和託理菴卜祿以上俱附載松花江地方伊爾根覺羅氏顧喬雅爾布蘇寧阿以上俱有傳華色右係附載阿庫里地方伊爾根覺羅氏竒雅穆胡成額以上俱有傳法克圖塔靈阿伊普星阿以上俱附載佛阿拉地方伊爾根覺羅氏塞楞鄂哈思虎福喀以上俱有傳凱起噶哈喀爾齊阿尼庫瑪晉泰丹達理阿爾布哈瑚爾琥阿海杭什喀發庫達富隆阿希爾胡納滿達爾漢雅爾拜布爾哈尹達渾常在尼喀理以上俱附載哈達地方伊爾根覺羅氏伍什巴額爾欽以上俱有傳武達哈竒楚邁圖雅爾布達爾漢瑪色惠泰三達理葉䝉額巴顔錫滿岱侃布綽倫當塞和屯以上俱附載
+  hash: sha256:e87739ab9a205aad9fbc58f3f7c2109e0dcdd959c383b5270bea5063f10f4a8f
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷十四目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_029.txt
+hash: sha256:8352c46c933bc16cd8c92475438511bce005628e1c1dcd0473aa8248bb0cbeab

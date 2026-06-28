@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/39
+seq: 39
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_039-1a, image: WYG0455/WYG0455-0307a.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷十九馬察地方佟佳氏巴篤理札爾固齊雅西塔哲克錫巴班薩穆哈圗顧胡圗約達尼繆施渾拜卓拜綏哈以上俱有𫝊庫察岱哈武賽雅爾巴吳達齊索桑阿岱宻喀雅魯納穆岱羅岱以上俱附載雅爾湖地方佟佳氏達爾漢侍衛扈爾漢阿爾賽布爾賽凖塔巴圗魯瑚什布達頼丹布薩木什喀達爾泰雅頼岱嵩阿覺善以上俱有𫝊沙納海莽愛佟啟剛固穆圗善以上俱附載加哈地方佟佳氏渾托和額濟訥蘇敏都都尼堪外蘭敦拜章京薩穆什喀䝉古吳章阿索爾和徳備以上俱有𫝊倭濟赫武海星額理桑固厄謨和善外善郭和齊富拉塔瑪時泰額圗庫巴顔邁堪武拜泰星阿鄂爾和順以上俱附載
+  hash: sha256:b19d802a30651af63f8a854b9e0045e7448478df00864c571a338b355c267550
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷十九目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_039.txt
+hash: sha256:3161096cf7232e3b14e6e1d2a9669ffbfdb115493a2494bf371e5f4c9bcf1745

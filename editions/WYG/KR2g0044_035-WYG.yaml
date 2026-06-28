@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/35
+seq: 35
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_035-1a, image: WYG0455/WYG0455-0288c.png}
+body:
+  text: 八旗滿洲氏族通譜目錄卷十七汪秦地方西林覺羅氏屯台鄂拜西楞額拉爾霸旒留以上俱有傳拉瑚塔吳當阿衮拜性欽西特庫侃泰瑪爾塔阿爾布哈噶克珠理以上俱附載各地方西林覺羅氏雅爾納巴布哈方喀拉賁布努顔玳貝楞額布顔楚陽阿翁吉訥卓端鄂順阿翁愛尹德齊以上俱有傳扎普薩台補鼐格費雅達雅爾布阿揚阿寧古齊噶喀善外圖庫都都倭赫以上俱附載
+  hash: sha256:20782846a36246658b43f28109636c66990154422579c1849a0ff750ca0de05e
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷十七目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_035.txt
+hash: sha256:b2b7fb67d71b0a0623fb7441fc52754a66e9d49decc747afbb2011ed1257515b

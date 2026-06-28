@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/80
+seq: 80
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_080-1a, image: WYG0455/WYG0455-0592a.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷四十費雅郎阿地方章佳氏瑚魯瑚昌吉鼐莽色松琴圖爾坤黄占雷虎達爾丹以上俱有傳章佛青右係附載馬兒墩章佳地方章佳氏遜扎齊薩穆占以上俱有傳渾達理阿納庫噶哈布山費揚古鄂海以上俱附載各地方章佳氏賴塔𤓰喇蘓扎巴圖巴克塔庫布理岱布禄以上俱有傳巴栁庫塔本瑚齊尚禮鄂武納巴布哈額赫楚謨克章格理格布渾博和理海藍鄂絡穆杜梁喀蘭巴海尼莽阿阿哈尼堪章國泰孔鄂絡白赫訥浩善扎庫達扎克丹蘓巴海章雲龍闗住以上俱附載
+  hash: sha256:7ba4fa3fe9e623aa0e5162a28dab7dd4dec01e66937ef9e1a959551a9785dfa6
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷四十目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_080.txt
+hash: sha256:dc0cb450b83c503781bc162a9952cba27cb69242b812aaef2cb0dc8918034255

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/krp/v1/juan/15
+seq: 15
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_015-1a, image: WYG0455/WYG0455-0158c.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷七綏分地方馬佳氏瑚石圖海錫哈巴克什敦柱格克特達進以上俱有𫝊屯鐸顧鼐圖爾巴哈以上俱附載馬佳地方馬佳氏赫東額郎塞胡什巴羅爾機對齊巴阿喜瑚拉渾羅托以上俱有𫝊綽絡顔布祿謨庫訥爾庫噶哈多齊音達渾福當阿恩克朔色赫爾素倭赫德碩色額赫訥德都翩翩偉赫圖穆哈達以上俱附載各地方馬佳氏塔蘭珠穆哈連珠英額尼喀理德什庫顔泰蒙武岱以上俱有𫝊馬穆敦魯布善鈕赫輝瑚魯莽吉圖托吉納吳爾漢阿瑚穆隆什瑚烏克星額馬爾哈齊席本瑚秦金泰庫庫哈山勒貝富塔丹巴祿敦多瓦爾達錫喇巴兆山阿爾本博絡瑚什巴舒穆喀努班第達海懷班阿林達英額瑚清額薩穆哈馬成關烏喀都爾班馬錫納庫尼堪圖爾哈艾必達鄂鼐圖克善馬達常琦以上俱附載
+  hash: sha256:927e5fe8414e91305984739be3964c6fabc4699067e9ec97ffb6909e14f9c418
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷七目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_015.txt
+hash: sha256:9933b2bcee1ed5cc4bf56a0699f425fe762ee208b11277fe02cde80b810820a2

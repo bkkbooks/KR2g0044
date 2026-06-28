@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/104
+seq: 104
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_104-1a, image: WYG0456/WYG0456-0029a.png}
+body:
+  text: 八旗滿洲氏族通譜目錄卷五十二墨爾哲勒氏強圖理希爾關蘇爾都瑚喀凡以上俱有傳宏鄂宏彀費爾佳登秀温寳額哲勒穆爾塔綽爾惠穆尤滿圖瑚陶旒吳虞爾渾吳什哈達格塞赫吳蘇瑚以上俱附載索齊勒氏旺珠瑚松圖以上俱有傳碩色琥什塔愛柱拜布海索爾和以上俱附載托謨氏春布理常書噶蘇葢穆以上俱有傳托喀穆阿爾都善塔爾布訥赫遜博濟爾岱索爾碧禪薩璧納羅博圖瑪庫理以上俱附載湯務氏尹塔右係有傳烏魯素喀爾堪嘉哈禪薩哈連以上俱附載都拉喇氏唐泰巴喀瑪以上俱有傳圖爾巴楚右係附載墨爾廸勒氏達巴鼐佛克楚以上俱有傳庫丑特克色赫圗性格巴有米提優以上俱附載喀爾達蘇氏庫爾布右係有傳公古代雅隆阿三布以上俱附載赫舒理氏舒瑚魯果和以上俱有傳武敏特安純以上俱附載輝羅氏額爾赫圗右係有傳哈普起唐碩徳克順以上俱附載
+  hash: sha256:8fe465e6d9740b9ad5e24cd64c50bb731685b5197446b2f2cc258470b9823246
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷五十二目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_104.txt
+hash: sha256:68efaa74227f09eb647155e352eab4c2d063bedd91eba3d0921b8d8d8b4418b1

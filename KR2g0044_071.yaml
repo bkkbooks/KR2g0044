@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/krp/v1/juan/71
+seq: 71
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_071-1a, image: WYG0455/WYG0455-0541a.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷三十五薩克達地方薩克達氏舒賽陶拉布舒庫鈕赫雅鼐松西以上俱有傳岱同巴爾泰瑚穆齊隨瑚祿卓博輝舒漢瑪拉常綬薩齊庫渾他哈哈爾吉達依喇齊訥庫蘇瓦顔拉庫吳登額以上俱附載寧古塔地方薩克達氏費嶽爾渾伊拉齊公泰蘇赫臣以上俱有傳郭和濟殷達渾索竒以上俱附載各地方薩克達氏葉古德渾達理禪楚準泰瞻布祿伊白德穆屯約綽和阿布海覺哈布爾哈訥圖蘇爾通阿克穆努福拜瑚顔布祿蒼密達密善以上俱有傳巴爾準興愛米蘇溫普嘉古善吳賽伊拉達衣理喀多果覺爾多尼雅爾阿清福達哈穆達祿雅龍阿多爾渾班朱琥古里郭碧囊阿巴揚阿多丹登對齊都蘭泰射濟舒賽喀爾喀木倭吉格郎柱薩克察柏膺額喀朱蘭阿古里那爾布蓋岱費雅達巴克西哈扎爾圖嘎哈哈西瑪吳達哈瑪達漢薩穆哈納親尤祿尚武察漢尼喀達巴薩理阿古達鈕瑚圖楊吉努喀爾禪恩崇額阿揚阿綽色翁鄂舜巴格黨額阿喀塔岱達噶爾薩巴爾布以上俱附載
+  hash: sha256:35979f2ac75bd061e7c317e442b2747fb51ecd6cc6da7d9fbc203c20e5bffaa3
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷三十五目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_071.txt
+hash: sha256:410a23b8f73b81f6374febd274271d8c4e92b8640191fc303c41d446a2b0fb7e

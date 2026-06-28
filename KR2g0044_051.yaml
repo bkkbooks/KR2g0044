@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/krp/v1/juan/51
+seq: 51
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_051-1a, image: WYG0455/WYG0455-0405c.png}
+body:
+  text: 八旗滿洲氏族通譜目録卷二十五沙濟地方富察氏旺吉努萬塔錫延珠瑚本科理唐哈思瑚莽色喀爾喀瑪以上俱有傳雅穆喀拉都哈阿爾泰岱清阿阿納海巴爾竒尼堪達拉哈武什泰以上俱附載葉赫地方富察氏楚隆阿布丹阿布岱瑚錫泰琉達理桂森穆哈連葛巴庫多賴以上俱有傳巴爾賽拉克道鄂善薩爾普元保布克察碩本吉農阿理薩穆哈都錫布額赫納葛布庫齊克什喀阿克敦吳班博德訥烏班泰吳齊堪達希布赫勒諾音推恩特恆布穆布理恩格布竒拜額赫圖以上俱附載額宜湖地方富察氏阿爾都山額楚以上俱有傳喀克圖松塞克珠雅諾吉瑪哈以上俱附載扎庫塔地方富察氏德楞格瓦古理根圖恆以上俱有傳納庫哈普周禪都喀雅爾古布占墨爾格德圖爾吉訥布克圖以上俱附載蜚悠城地方富察氏艾通阿烏珠阿穆巴富喀塔禮費雅克塔策穆特赫積克黨阿以上俱有傳雅穆達阿密禪舒可式瑪福塔古揚素富喀達轄瑚烏朗阿明阿努和爾弼殷登沙達哈僧郭安楚瑚魯邁圖禮薩納塞赫訥邁凃以上俱附載
+  hash: sha256:ebb2ee5c9f8320396f5873f5a07d9b2b896500b167ad2ac7d4a3a87a8ba67d4f
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷二十五目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_051.txt
+hash: sha256:7324913f4c5767e9d2500e315666ba84e5f2eed025884126a180c63aa1a084a6

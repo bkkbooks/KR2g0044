@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2g0044/krp/v1/juan/148
+seq: 148
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_148-1a}
+body:
+  text: 八旗滿洲氏族通譜目録卷七十四附載滿洲旗分內之尼堪姓氏張氏張良弼張泰張文興張滋德張厚德李氏望明忠李世昌李成賢李柏李拔髙氏髙雲龍髙名選髙德猷雷氏雷宏華雷政陳氏陳籓陳善道周氏周勳業周國彬胡氏胡海董氏董文選黃氏黃世仁鈕氏鈕良勳吳氏吳倫劉氏勞翰尚氏尚大德韓氏韓成馬氏馬偏額王氏王國祚曹氏曹錫逺丁氏丁崇德魏氏綬恩吕氏吕成科鄭氏鄭彬羅氏羅永升白氏燮學聖欽定四庫全書八旗滿洲氏族通譜目録卷七十四附載滿洲旗分內之尼堪姓氏張氏張良弼張泰張文興張滋德張厚德李氏望明忠李世昌李成賢李柏李拔髙氏髙雲龍髙名選髙德猷雷氏雷宏華雷政陳氏陳籓陳善道周氏周勳業周國彬胡氏胡海董氏董文選黃氏黃世仁鈕氏鈕良勳吳氏吳倫劉氏勞翰尚氏尚大德韓氏韓成馬氏馬偏額王氏王國祚曹氏曹錫逺丁氏丁崇德魏氏綬恩吕氏吕成科鄭氏鄭彬羅氏羅永升白氏燮學聖
+  hash: sha256:d254028e1dfd913ea145cc81acd3b5261a15d00f652400400de20832378c776a
+  markers:
+  - {type: page-break, offset: 169, content: '', id: KR2g0044_WYG_148-5a}
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷七十四目録
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_148.txt
+hash: sha256:2bc75185710b189214cbb5739fd85988f4e3596894fde27b696619d8957f60be

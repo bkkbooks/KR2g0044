@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0044/WYG/v1/juan/96
+seq: 96
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0044_WYG_096-1a, image: WYG0455/WYG0455-0674a.png}
+body:
+  text: 八旗滿洲氏族通譜目錄卷四十八虎爾哈地方虎爾哈氏納漢泰扎爾固齊托克推阿喜布祿吴勒穆雅達渾郭爾琨以上俱有傳鄂錫右係附載新達謨城地方虎爾哈氏康喀賚扎爾固齊塔爾巴齊以上俱有傳富達理薩哈連以上俱附載各地方虎爾哈氏珠爾庫右係有傳訥爾圖墨爾根阿哈棣雅爾哈以上俱附載蘇佳氏尼雅星阿瑪納漢武拜以上俱有傳岱珠瑚烏巴海舒訥璧赫徳色克特巴本愛星阿拜色圖巴泰布爾哈蘇栢和以上俱附載溫徹亨氏博爾濟烏雲珠以上俱有傳赫董額右係附載哲爾德氏塔布岱雅魯堪以上俱有傳哲爾德顔岱綽克托渾岱費揚古以上俱附載溫察氏安泰博多渾以上俱有傳巴哈納楠道尼雅哈温齊以上俱附載
+  hash: sha256:b8c85dfab231170bf56ae70a189106dbbc033fcf8094c4e5c30ac2c688e00eaa
+metadata:
+  title: 欽定八旗滿洲氏族通譜
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:01.323845'
+  juan_title: 卷四十八目錄
+  source:
+    repository: kanripo
+    path: KR2g0044/KR2g0044_096.txt
+hash: sha256:ead900181617ca4861d7cee6f38030fd9acc7c74cb96bed2ea74f7d2292218e4
