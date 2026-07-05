@@ -205,7 +205,6 @@ markers:
   - {type: line-break, offset: 172, content: '', id: KR2g0044_WYG_051-3a01}
   - {type: indent, offset: 172, content: 　　　, id: KR2g0044_krp_051-bkkind53}
   - {type: indent, offset: 175, content: 　　　　　　, id: KR2g0044_krp_051-bkkind54}
-  - {type: substitution, offset: 177, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'kr:newline', offset: 178, content: '
 
       ', id: KR2g0044_krp_051-bkkkrnewl37}
@@ -276,7 +275,6 @@ markers:
       ', id: KR2g0044_krp_051-bkkkrnewl49}
   - {type: line-break, offset: 245, content: '', id: KR2g0044_WYG_051-3b05}
   - {type: indent, offset: 245, content: 　　　, id: KR2g0044_krp_051-bkkind72}
-  - {type: substitution, offset: 247, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'kr:newline', offset: 248, content: '
 
       ', id: KR2g0044_krp_051-bkkkrnewl50}
@@ -288,7 +286,6 @@ markers:
   - {type: line-break, offset: 253, content: '', id: KR2g0044_WYG_051-3b07}
   - {type: indent, offset: 253, content: 　　　, id: KR2g0044_krp_051-bkkind74}
   - {type: indent, offset: 255, content: 　　　　　　　, id: KR2g0044_krp_051-bkkind75}
-  - {type: substitution, offset: 257, original: 週, replacement: 周, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0563}}
   - {type: 'kr:newline', offset: 258, content: '
 
       ', id: KR2g0044_krp_051-bkkkrnewl52}
@@ -419,4 +416,4 @@ markers:
 
       ', id: KR2g0044_krp_051-bkkkrnewl75}
   back: []
-hash: sha256:3b7815fa6f5a4605d73b049a46655428c408ebeea37615c218a7804910524248
+hash: sha256:cb38578c19546a11f7699c71246a2faef54f4fd48201e7ec702ae7ed6a9a63ed
