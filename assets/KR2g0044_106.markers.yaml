@@ -12,6 +12,7 @@ markers:
       ', id: KR2g0044_krp_106-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2g0044_WYG_106-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2g0044_krp_106-bkkind1}
+  - {type: substitution, offset: 9, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 10, content: '
 
       ', id: KR2g0044_krp_106-bkkkrnewl2}
@@ -156,12 +157,14 @@ markers:
       ', id: KR2g0044_krp_106-bkkkrnewl30}
   - {type: line-break, offset: 103, content: '', id: KR2g0044_WYG_106-2b04}
   - {type: indent, offset: 103, content: 　　, id: KR2g0044_krp_106-bkkind29}
+  - {type: substitution, offset: 103, original: 頼, replacement: 賴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17567}}
   - {type: 'kr:newline', offset: 106, content: '
 
       ', id: KR2g0044_krp_106-bkkkrnewl31}
   - {type: line-break, offset: 106, content: '', id: KR2g0044_WYG_106-2b05}
   - {type: indent, offset: 106, content: 　　　, id: KR2g0044_krp_106-bkkind30}
   - {type: indent, offset: 109, content: 　　　　　　, id: KR2g0044_krp_106-bkkind31}
+  - {type: substitution, offset: 110, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
   - {type: 'kr:newline', offset: 112, content: '
 
       ', id: KR2g0044_krp_106-bkkkrnewl32}
@@ -236,6 +239,7 @@ markers:
       ', id: KR2g0044_krp_106-bkkkrnewl46}
   - {type: line-break, offset: 160, content: '', id: KR2g0044_WYG_106-3b02}
   - {type: indent, offset: 160, content: 　　　, id: KR2g0044_krp_106-bkkind45}
+  - {type: substitution, offset: 161, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: 'kr:newline', offset: 163, content: '
 
       ', id: KR2g0044_krp_106-bkkkrnewl47}
@@ -474,4 +478,4 @@ markers:
 
       ', id: KR2g0044_krp_106-bkkkrnewl92}
   back: []
-hash: sha256:3370e9f900b84a68d1b353ada2128e6f8c0a664ccc4bdb59a9e8ebd7fc122bf5
+hash: sha256:10623679e42e721425f3f3af7c094b30b6438ee1faa73f949b9f199ccb4ad5da

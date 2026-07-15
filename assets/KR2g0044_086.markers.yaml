@@ -56,6 +56,7 @@ markers:
   - {type: line-break, offset: 44, content: '', id: KR2g0044_WYG_086-1b01}
   - {type: indent, offset: 44, content: 　　　, id: KR2g0044_krp_086-bkkind12}
   - {type: indent, offset: 47, content: 　　　　　　, id: KR2g0044_krp_086-bkkind13}
+  - {type: substitution, offset: 47, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: 'kr:newline', offset: 49, content: '
 
       ', id: KR2g0044_krp_086-bkkkrnewl10}
@@ -95,6 +96,7 @@ markers:
       ', id: KR2g0044_krp_086-bkkkrnewl16}
   - {type: line-break, offset: 82, content: '', id: KR2g0044_WYG_086-1b08}
   - {type: indent, offset: 82, content: 　　　, id: KR2g0044_krp_086-bkkind24}
+  - {type: substitution, offset: 82, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: indent, offset: 84, content: 　　　　　　　, id: KR2g0044_krp_086-bkkind25}
   - {type: 'kr:newline', offset: 87, content: '
 
@@ -163,6 +165,7 @@ markers:
       ', id: KR2g0044_krp_086-bkkkrnewl28}
   - {type: line-break, offset: 136, content: '', id: KR2g0044_WYG_086-2b02}
   - {type: indent, offset: 136, content: 　　　, id: KR2g0044_krp_086-bkkind44}
+  - {type: substitution, offset: 137, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
   - {type: indent, offset: 139, content: 　　　　　, id: KR2g0044_krp_086-bkkind45}
   - {type: 'kr:newline', offset: 141, content: '
 
@@ -310,4 +313,4 @@ markers:
 
       ', id: KR2g0044_krp_086-bkkkrnewl56}
   back: []
-hash: sha256:0ee78ee1875aabbf07f8547da53473d95f1edc53d4e23f03c0fe3a084cc9332f
+hash: sha256:572c8597e21e34db4dbf10f690d23401ea80c8dd15afa4ae177fe66ecd9327ba
